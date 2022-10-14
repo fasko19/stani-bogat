@@ -1,0 +1,39 @@
+.game {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap-reverse;
+  max-width: 1500px;
+  margin: auto;
+  position: relative;
+}
+
+.game .joker {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.game .joker button {
+  margin: 50px;
+  width: 300px;
+  font-size: 25px;
+}
+.start {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 15%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button {
+  width: 300px;
+  margin-top: 10px;
+  margin: auto;
+}
+.container {
+  padding: 50px;
+  margin-bottom: 10px;
+}

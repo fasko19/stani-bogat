@@ -1,0 +1,25 @@
+.list {
+  border: 1px solid white;
+  border-radius: 5px;
+  margin: 5px;
+  color: white;
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+.list-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.exit {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+.stage {
+  font-weight: 700;
+}
+.price {
+  font-weight: 700;
+}

@@ -1,0 +1,18 @@
+.content {
+  display: flex;
+  justify-content: center;
+}
+.letters {
+  color: black;
+  font-weight: 600;
+  margin: auto;
+}
+.answer {
+  margin: auto;
+  width: 260px;
+}
+.button {
+  margin: 2px;
+  width: 300px;
+  font-size: 25px;
+}
